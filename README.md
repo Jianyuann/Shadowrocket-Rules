@@ -1,11 +1,10 @@
 # Shadowrocket-Rules
 
-
 默认配置：
 
 https://raw.githubusercontent.com/Jianyuann/Shadowrocket-Rules/main/Default.conf
 
-重定向去广告等模块：
+去广告重写补充配置：
 
 https://raw.githubusercontent.com/Jianyuann/Shadowrocket-Rules/main/Rewrite.conf
 
@@ -16,3 +15,6 @@ https://raw.githubusercontent.com/Jianyuann/Shadowrocket-Rules/main/Script.conf
 Apple News、Tiktok本地化模块：
 
 https://raw.githubusercontent.com/Jianyuann/Shadowrocket-Rules/main/Others.conf
+
+墨鱼去广告模块：
+https://raw.githubusercontent.com/ddgksf2013/Modules/main/Adblock.sgmodule
