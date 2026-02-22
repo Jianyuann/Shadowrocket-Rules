@@ -16,6 +16,6 @@ Apple News、Tiktok本地化模块：
 
 https://raw.githubusercontent.com/Jianyuann/Shadowrocket-Rules/main/Others.conf
 
-墨鱼去广告模块：
+奶思去广告模块：
 
-https://raw.githubusercontent.com/ddgksf2013/Modules/main/Adblock.sgmodule
+https://raw.githubusercontent.com/Jianyuann/Shadowrocket-Rules/main/blockAds.conf
