@@ -15,7 +15,3 @@ https://raw.githubusercontent.com/Jianyuann/Shadowrocket-Rules/main/Script.conf
 Apple News、Tiktok本地化模块：
 
 https://raw.githubusercontent.com/Jianyuann/Shadowrocket-Rules/main/Others.conf
-
-奶思去广告模块：
-
-https://raw.githubusercontent.com/Jianyuann/Shadowrocket-Rules/main/blockAds.conf
